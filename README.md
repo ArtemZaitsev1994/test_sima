@@ -4,3 +4,5 @@
 
 также в папке app небольшие тесты: pytest -v -s tests.py
 
+swagger доступен по http://0.0.0.0:8080/api/doc/
+
