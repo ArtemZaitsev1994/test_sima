@@ -2,5 +2,5 @@
 
 в папке app сервер, запускать app.py
 
-также в папке app ебольшие тесты: pytest -v -s tests.py
+также в папке app небольшие тесты: pytest -v -s tests.py
 
